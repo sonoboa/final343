@@ -14,7 +14,11 @@ export default function Menubar() {
           <li>
             <a href='https://website-exam-part-2-smoky.vercel.app/' target='_blank'>Midterm Part II Site</a>
           </li>
-        </ul>
+        <li>
+         <Link href='/faq'>FAQ</Link>
+        </li>
+               
+                </ul>
       </>
     )
   }
